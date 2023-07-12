@@ -3,7 +3,7 @@
 ## Description
 This project builds a back end for an e-commerce site. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
-The user can
+The user can use GET routes to access all categories, all products, and all tags. They can use GET routes to get a single category, a single product, and a single tag by referencing the id. There are additinally POST, PUT, and DELETE routes for categories, products, and tags.
 
 ## Video Walkthrough
 Please watch this video to see the package.json and dotenv package: https://drive.google.com/file/d/1sgZj-mbLch4vaWxlQL4-Vbml0WAPvIj1/view.
